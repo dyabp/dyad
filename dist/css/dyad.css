@@ -4695,7 +4695,6 @@ a:hover, a:focus, a:active {
 
 .form-control:focus {
   border-color: #e2dfdf;
-  box-shadow: none;
 }
 
 .form-control.form-control-normal {

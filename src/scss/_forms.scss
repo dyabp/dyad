@@ -28,8 +28,7 @@
     }
     &:focus {
     	border-color: #e2dfdf;
-	    -webkit-box-shadow: none;
-	    box-shadow: none;
+        //box-shadow: none; //input focus board outline around text/input boxes
     }
     &.form-control-normal {
         font-weight: 400;
