@@ -1,12 +1,11 @@
 .auth-wrapper {
-	.lavalite-bg {
+	.dy-bg {
 	    height: 100vh;
 	    position: relative;
 	    width: 100%;
-	    -webkit-background-size: cover;
 	    background-size: cover;
 	    background-repeat: no-repeat;
-	    .lavalite-overlay {
+	    .dy-overlay {
 		    position: absolute;
 		    width: 100%;
 		    height: 100%;
@@ -16,6 +15,7 @@
 		}
 	}
 	.authentication-form {
+		height: 100vh;
 	    font-size: .9rem;
 	    width: 70%;
 	    display: block;

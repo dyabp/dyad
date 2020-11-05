@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - dyad v1.0.0 (https://github.com/dyabp/dyad)
+ * dyad v1.0.0 (https://github.com/dyabp/dyad)
  * Copyright 2020-2020 Gerry Ge
  * Licensed under MIT (https://github.com/dyabp/dyad/blob/main/LICENSE)
  */
@@ -6947,7 +6947,7 @@ span.value {
   transform: translate(0, 0);
 }
 
-.auth-wrapper .lavalite-bg {
+.auth-wrapper .dy-bg {
   height: 100vh;
   position: relative;
   width: 100%;
@@ -6955,7 +6955,7 @@ span.value {
   background-repeat: no-repeat;
 }
 
-.auth-wrapper .lavalite-bg .lavalite-overlay {
+.auth-wrapper .dy-bg .dy-overlay {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -6965,6 +6965,7 @@ span.value {
 }
 
 .auth-wrapper .authentication-form {
+  height: 100vh;
   font-size: .9rem;
   width: 70%;
   display: block;
