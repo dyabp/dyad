@@ -1,7 +1,7 @@
 ## Gulp Quick Start
 
 
-1. Download the latest theme source from the marketplace.
+1. git clone https://github.com/dyabp/dyad.git.
 
 2. Download and install Node.js from nodejs.org/en/download/. The suggested version to install is 12.18.x LTS.
 
