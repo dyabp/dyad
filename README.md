@@ -5,10 +5,10 @@
 
 2. Download and install Node.js from nodejs.org/en/download/. The suggested version to install is 12.18.x LTS.
 
-3. Start command prompt window or terminal and change directory to root folder of AdminComponent.
+3. Start command prompt window or terminal and change directory to root folder of dyad.
 
     ```cmd
-    cd AdminComponent
+    cd dyad
     ```
 
 4. Install the latest npm.
